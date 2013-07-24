@@ -5,8 +5,9 @@ Construct 2 random array generator
 
 Installation:
 -------------
-1. download the .c2addon file (good luck with that - github doesnt make it easy)
-2. drag and drop it on your C2 installation 
+1. download the latest release https://github.com/nutmix/RandomArray2/releases
+2. unzip.
+3. drag and drop the RandomArray2.c2addon file on your C2 installation 
 
 OR 
 
