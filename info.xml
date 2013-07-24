@@ -1,0 +1,10 @@
+<c2addon>
+<!--  One of: plugin, behavior, effect  -->
+<type>plugin</type>
+<name>RandomArray2</name>
+<version>1.1</version>
+<author>Joe7 modified by nutmix</author>
+<website>https://github.com/nutmix/RandomArray2</website>
+<documentation>https://github.com/nutmix/RandomArray2</documentation>
+<description>A modification of the RandomArray plugin by Joe7.  </description>
+</c2addon>
